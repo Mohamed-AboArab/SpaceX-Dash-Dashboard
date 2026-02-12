@@ -4,7 +4,7 @@
 🚀 Interactive dashboard built with Plotly Dash to visualize SpaceX launch data.
 
 ## 📸 Dashboard Screenshots
-(حط الصور هنا لما تاخدها)
+<img width="1918" height="755" alt="dashboard application" src="https://github.com/user-attachments/assets/bb1e1420-2732-45b0-9c39-1d8f75a631aa" />
 
 ## 📁 Files
 - `spacex-dash-app.py` - Main application code
